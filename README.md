@@ -8,4 +8,5 @@ Este repositorio funcionará como registro de las actividades para la materia de
 
 ## Inscritos
 
+- [Evaluz Vazquez Espinosa](https://github.com/Paixnidi29)
 - [Renoir Baca](https://github.com/Mlietta)
