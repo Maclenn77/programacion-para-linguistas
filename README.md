@@ -8,4 +8,4 @@ Este repositorio funcionará como registro de las actividades para la materia de
 
 ## Inscritos
 
-
+- [Renoir Baca](https://github.com/Mlietta)
