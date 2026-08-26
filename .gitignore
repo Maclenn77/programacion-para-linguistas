@@ -1,6 +1,7 @@
 # ============================
 # Python
 # ============================
+.virtual_documents/
 __pycache__/
 *.py[cod]
 *$py.class
