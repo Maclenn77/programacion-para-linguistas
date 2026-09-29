@@ -11,3 +11,4 @@ Este repositorio funcionará como registro de las actividades para la materia de
 - [EDWIN EFRAIN MALDONADO DIAZ](https://github.com/edwinmaldonado731-source_github)
 - [Evaluz Vazquez Espinosa](https://github.com/Paixnidi29)
 - [Renoir Baca](https://github.com/Mlietta)
+- [Celia Adriana Colmenero](https://github.com/Celia-Adriana)
