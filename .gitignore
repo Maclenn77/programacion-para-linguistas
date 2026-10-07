@@ -82,3 +82,8 @@ ejemplo/
 .idea/
 *.swp
 *.swo
+
+# ============================
+# Archivos generados por los ejercicios
+# ============================
+resultados/
