@@ -87,3 +87,6 @@ ejemplo/
 # Archivos generados por los ejercicios
 # ============================
 resultados/
+
+# Vectores descargados en el cuaderno 06 (pesan ~200 MB)
+datos/embeddings/
