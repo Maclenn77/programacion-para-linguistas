@@ -90,3 +90,8 @@ resultados/
 
 # Vectores descargados en el cuaderno 06 (pesan ~200 MB)
 datos/embeddings/
+
+# Archivos generados en el cuaderno 08 (los textos limpios sí se versionan)
+datos/novelas_es/gutenberg/
+datos/novelas_es/modernizados/
+*.sqlite
